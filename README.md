@@ -1,4 +1,6 @@
-<h3 align="center">🧙‍♂️ Welcome peasant! 🧙‍♂️</h3>
+<h1 align="center">
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=09A2F7&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Allain+James+Dayagdag" alt="Typing SVG" /></a>
+</h1>
 <p align="center">I’m an experienced Java developer passionate about building scalable backend applications, and I’m continuously expanding my knowledge in Software Engineering to strengthen my system design and development best practices.</p>
 <hr></hr>
 <h4>✨ About Me</h4>
