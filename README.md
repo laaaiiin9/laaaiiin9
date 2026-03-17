@@ -21,7 +21,6 @@
 <p float="left">
   
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/ActionScript-ff0000?logo=as3&logoColor=white"/>
 </p>
@@ -38,6 +37,7 @@
 <p float="left">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
 </p>
 
 <h5>🛠 Development Tools</h5>
@@ -57,6 +57,7 @@
 <p float="left">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&amp;logo=android&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&amp;logo=ubuntu&amp;logoColor=white"/>
 </p>
 
 <hr></hr>
