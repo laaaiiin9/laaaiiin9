@@ -31,6 +31,11 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&amp;logo=laravel&amp;logoColor=white"/>
 </p>
 
+<h5>🎨 UI/UX Design</h5>
+<p float="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+</p>
+
 <h5>🌏 Web Technologies</h5>
 <p float="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
