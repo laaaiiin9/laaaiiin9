@@ -19,10 +19,15 @@
 <h4>🛠 Tech Stack</h4>
 <h5>💻 Programming Languages</h5>
 <p float="left">
-  
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/ActionScript-ff0000?logo=as3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white"/>
+</p>
+
+<h5>🧩 Frameworks</h5>
+<p float="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&amp;logo=laravel&amp;logoColor=white"/>
 </p>
 
 <h5>🌏 Web Technologies</h5>
@@ -64,6 +69,5 @@
 
 <h5>📍 Currently Learning</h5>
 <p float="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&amp;logo=laravel&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&amp;logo=dart&amp;logoColor=white"/>
 </p>
