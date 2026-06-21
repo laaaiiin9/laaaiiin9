@@ -12,6 +12,7 @@
 <h4>🎖 Achievements</h4>
 <p float="left">
   <img src="https://images.credly.com/size/340x340/images/2210b6fe-0eda-415a-8aba-6c1400566728/ITS-Badges_Java_1200px.png" width="100"/>
+  <img src="https://images.credly.com/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" width="100"/>
 </p>
 
 <hr></hr>
@@ -70,4 +71,5 @@
 <h5>📍 Currently Learning</h5>
 <p float="left">
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&amp;logo=dart&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&amp;logo=flutter&amp;logoColor=white"/>
 </p>
